@@ -28,12 +28,21 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/5_diffusion/%5BM2LS_2025%5D_Fundamentals.ipynb)
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/5_diffusion/%5BM2LS_2025%5D_Fundamentals_solved.ipynb)
+
 
 #### Part 2:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/5_diffusion/%5BM2LS_2025%5D_Conditional_Generation.ipynb)
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/5_diffusion/%5BM2LS_2025%5D_Conditional_Generation_solved.ipynb)
+
 
 #### Part 3:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/5_diffusion/%5BM2LS_2025%5D_Optional.ipynb)
+
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/M2Lschool/tutorials2025/blob/master/5_diffusion/%5BM2LS_2025%5D_Optional_solved.ipynb)
